@@ -1,0 +1,24 @@
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+}
+
+p {
+    text-align: center;
+    font-family: avenir;
+}
+
+a {
+    color: #2c87f0;
+    font-size: 1.5em;
+  }
+
+  a:visited {
+    color: #636;
+  }
+
+  a:hover, a:active, a:focus {
+    color:#c33;
+  }
